@@ -66,15 +66,9 @@
     "phone": "1234"
   },
   {
-    "id": "ag-gzd1Fa-Cbvad8UK7kQ",
-    "name": "Yaroslav",
-    "email": "y@gm.com",
-    "phone": "1234"
-  },
-  {
     "id": "FK7qoijq_IOxFmvwBXMv4",
-    "name": "Yaroslav#2.1",
-    "email": "y2.1@gm.com",
-    "phone": "123451"
+    "name": "YaroslavTest",
+    "email": "yT@gm.com",
+    "phone": "12"
   }
 ]
